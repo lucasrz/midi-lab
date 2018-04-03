@@ -1,0 +1,7 @@
+{
+    "name": "Synths",
+    "productName": "SynthsDemo",
+    "version": "1.0.0",
+    "description": "Synths Demo",
+    "main": "scrit.js"
+}
